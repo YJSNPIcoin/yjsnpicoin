@@ -1,0 +1,9 @@
+Building YJSNPIcoin
+
+See doc/readme-qt.rst for instructions on building YJSNPIcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of YJSNPIcoin.
+
+See doc/build-*.txt for instructions on building yjsnpicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of YJSNPIcoin.
